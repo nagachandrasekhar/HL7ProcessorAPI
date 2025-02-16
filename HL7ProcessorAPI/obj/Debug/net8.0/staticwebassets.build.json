@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2WyU4kMyV8QXI0rQUyWgI9UwQnhF5oVaPSD0JWPb77o=",
+  "Source": "HL7ProcessorAPI",
+  "BasePath": "_content/HL7ProcessorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+C:\Users\nagac\source\repos\HL7ProcessorAPI\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\nagac\source\repos\HL7ProcessorAPI\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\nagac\source\repos\HL7ProcessorAPI\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\nagac\source\repos\HL7ProcessorAPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagac\source\repos\HL7ProcessorAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\nagac\source\repos\HL7ProcessorAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\nagac\source\repos\HL7ProcessorAPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\nagac\source\repos\HL7ProcessorAPI\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\nagac\source\repos\HL7ProcessorAPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\nagac\source\repos\HL7ProcessorAPI\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\nagac\source\repos\HL7ProcessorAPI\Domain\obj\Debug\net8.0\ref\Domain.dll

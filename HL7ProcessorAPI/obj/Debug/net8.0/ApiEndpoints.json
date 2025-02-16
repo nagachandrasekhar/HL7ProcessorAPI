@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "HL7ProcessorAPI.Controllers.HL7Controller",
+    "Method": "GetHL7Message",
+    "RelativePath": "api/HL7/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HL7ProcessorAPI.Controllers.HL7Controller",
+    "Method": "ProcessHL7Message",
+    "RelativePath": "api/HL7/process",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hl7Message",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
