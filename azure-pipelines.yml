@@ -23,7 +23,7 @@ jobs:
         run: dotnet test --configuration Release
 
       - name: Upload build artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v4  # ✅ Updated to v4
         with:
           name: my-build-artifacts
           path: bin/Release
